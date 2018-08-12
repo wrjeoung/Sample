@@ -13,7 +13,7 @@ import java.util.Date;
  */
 
 public class LogUtil {
-    static public final String TAG = "starTv";
+    static public final String TAG = "Sample";
     static boolean DEBUG = true;
     static boolean LOGFILE = false;
 

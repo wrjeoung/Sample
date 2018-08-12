@@ -1,4 +1,4 @@
-package longrun.co.kr.sample;
+package optimistic.co.kr.sample;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("longrun.co.kr.sample", appContext.getPackageName());
+        assertEquals("optimistic.co.kr.sample", appContext.getPackageName());
     }
 }

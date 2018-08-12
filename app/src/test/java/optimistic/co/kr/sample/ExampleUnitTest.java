@@ -1,4 +1,4 @@
-package longrun.co.kr.sample;
+package optimistic.co.kr.sample;
 
 import org.junit.Test;
 
